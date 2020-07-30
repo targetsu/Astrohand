@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AstroHand"
+    }
+  },
+  "defaultProject": "AstroHand",
+  "cli": {
+    "analytics": false
+  }
 }
